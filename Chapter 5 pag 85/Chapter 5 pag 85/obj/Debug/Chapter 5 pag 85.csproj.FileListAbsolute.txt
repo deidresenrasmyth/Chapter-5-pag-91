@@ -1,0 +1,7 @@
+C:\Deidre\Module 3\Chapter 5\Chapter 5 pag 85\Chapter 5 pag 85\bin\Debug\Chapter 5 pag 85.exe.config
+C:\Deidre\Module 3\Chapter 5\Chapter 5 pag 85\Chapter 5 pag 85\bin\Debug\Chapter 5 pag 85.exe
+C:\Deidre\Module 3\Chapter 5\Chapter 5 pag 85\Chapter 5 pag 85\bin\Debug\Chapter 5 pag 85.pdb
+C:\Deidre\Module 3\Chapter 5\Chapter 5 pag 85\Chapter 5 pag 85\obj\Debug\Chapter 5 pag 85.csprojAssemblyReference.cache
+C:\Deidre\Module 3\Chapter 5\Chapter 5 pag 85\Chapter 5 pag 85\obj\Debug\Chapter 5 pag 85.csproj.CoreCompileInputs.cache
+C:\Deidre\Module 3\Chapter 5\Chapter 5 pag 85\Chapter 5 pag 85\obj\Debug\Chapter 5 pag 85.exe
+C:\Deidre\Module 3\Chapter 5\Chapter 5 pag 85\Chapter 5 pag 85\obj\Debug\Chapter 5 pag 85.pdb
